@@ -14,11 +14,10 @@ https://xd.adobe.com/view/7f86feb6-b713-4bea-a733-dd73b40035c1-2ad5/
     - [1.3.1. Submit Contact Flow](#submit_contact_flow_topic)
   - [1.4. Footer](#footer)
   - [1.5. Navigation](#navigation)
-    - [1.5.1. Navigation Panel Flowbiz Logo](#navigation_panel_flowbiz_logo_topic)
-    - [1.5.2. Sign In/Out Button](#sign_in/out_button_topic)
-    - [1.5.3. Pages Links](#pages_links_topic)
-    - [1.5.4. Local Switch](#local_switch_topic)
-    - [1.5.5. Light/Dark Mode Switch](#light/dark_mode_switch_topic)
+    - [1.5.1. Sign In/Out Button](#sign_in/out_button_topic)
+    - [1.5.2. Pages Links](#pages_links_topic)
+    - [1.5.3. Local Switch](#local_switch_topic)
+    - [1.5.4. Light/Dark Mode Switch](#light/dark_mode_switch_topic)
   - [1.6. Flowbiz Logo](#flowbiz_logo)
     - [1.6.1. Page Scrolled Up Mode](#page_scrolled_up_mode_topic)
     - [1.6.2. Scrolling Down Mode](#scrolling_down_mode_topic)
@@ -124,19 +123,49 @@ It presents the site navigation links, a footer image and maybe also the Flowbiz
 ## 1.5. <a id="navigation">Navigation</a>
 The [Navigation](../LandingPageDesign/README.md#navigation_topic) control Panel let the user jump between the different pages of the site, sign in and out from the site and switch between Local and Light/Dark modes
 
-![navigation_mockup1](https://user-images.githubusercontent.com/12394551/165641445-524ad6fb-be55-4324-abbc-ae4b07b23042.png)
+![navigation_mockup1](https://user-images.githubusercontent.com/12394551/166155050-a48e36bd-ea47-405e-94d9-f6bbf8d7d3d1.png)
 
-### 1.5.1. <a id="navigation_panel_flowbiz_logo_topic">Navigation Panel Flowbiz Logo</a>
-[Flowbiz Logo](#flowbiz_logo). when the users clicks the logo, he is redirected to Home page
-### 1.5.2. <a id="sign_in/out_button_topic">Sign In/Out Button</a>
+- https://xd.adobe.com/view/4395c0a2-5fe3-475e-86e5-09fd02be07ab-16c6/screen/1f4e9e23-8964-46fa-b680-6d582f7a848e
+### 1.5.1. <a id="sign_in/out_button_topic">Sign In/Out Button</a>
 A small button with a face image that let the user sign in and from the site
-### 1.5.3. <a id="pages_links_topic">Pages Links</a>
+
+![sign_in/out_button_mockup1](https://user-images.githubusercontent.com/12394551/166893541-8a61ffb9-d9e4-4d8b-bb18-571707d071c6.png)
+
+After the user signs in the icon should change to the user photo as received from the authentication server (google) with the user name
+
+![sign_in/out_button_mockup1](https://user-images.githubusercontent.com/12394551/166894212-458712bb-2f65-4c00-b72a-6ec84e959fa9.png)
+##### On Mobile View
+
+![sign_in/out_button_mockup2](https://user-images.githubusercontent.com/12394551/166895006-f5b98fae-e97a-4470-9f76-0d4d1cc613d6.png)
+
+### 1.5.2. <a id="pages_links_topic">Pages Links</a>
 Links to the other 4 pages in the site: `How it works`, `Startups & Entrepreneurs`, `Product & dev teams` and `Outsourcing made simple`
-### 1.5.4. <a id="local_switch_topic">Local Switch</a>
-A switch selection button that let the user switch between the page language.<br>
+### 1.5.3. <a id="local_switch_topic">Local Switch</a>
+A switch selection button that let the user switch between the page available languages.<br>
 Currently there are 2 supported languages: English and Hebrew
-### 1.5.5. <a id="light/dark_mode_switch_topic">Light/Dark Mode Switch</a>
-A switch button that let the user switch between the page Light/Dark style mode
+
+![local_switch_mockup1](https://user-images.githubusercontent.com/12394551/166895696-66e64fba-c897-401f-9a3d-9b8fcb17067e.png)
+##### Regular, Bubble and Arrow
+
+![local_switch_mockup2](https://user-images.githubusercontent.com/12394551/166155617-35629f75-7335-48d4-93f0-2794f8750cb7.png)
+##### Clicked, Bubble and Dropdown selection
+- The bubble and the selected language key are highlighted
+
+![local_switch_mockup3](https://user-images.githubusercontent.com/12394551/166155616-51bb51e3-8707-4b88-880a-8f10076afcd8.png)
+##### On Mobile View
+
+![local_switch_mockup4](https://user-images.githubusercontent.com/12394551/166895977-c4e4f61e-2164-4371-866f-ee8903f237b1.png)
+### 1.5.4. <a id="light/dark_mode_switch_topic">Light/Dark Mode Switch</a>
+A switch button that let the user switch between the page Light/Dark style mode<br>
+The button itself has two modes to indicate the Light/Dark mode of the page
+
+![light/dark_mode_switch_mockup1](https://user-images.githubusercontent.com/12394551/166896285-75ebcbd6-1f4b-4b9e-8988-44603b0861f8.png)
+##### Light
+
+![light/dark_mode_switch_mockup2](https://user-images.githubusercontent.com/12394551/166155210-86b4278c-d966-4fb2-b586-70618eec2c4d.png)
+##### Dark
+
+![light/dark_mode_switch_mockup3](https://user-images.githubusercontent.com/12394551/166155209-da1702b5-f2aa-4386-bd4f-e7739a81f309.png)
 ## 1.6. <a id="flowbiz_logo">Flowbiz Logo</a>
 The developer should code the site logo according the design.<br>
 The logo is composed of two elements
@@ -160,7 +189,7 @@ When the user scrolls down in the page, the 'Fl biz' word fades away and only th
 
 ![scrolling_down_mode_mockup1](https://user-images.githubusercontent.com/12394551/165717629-940a3cad-dce1-4f81-bd1c-051cbee33842.png)
 ### 1.6.3. <a id="mobile_view_topic">Mobile View</a>
-On Mobile view ....
+TBD
 ### 1.6.4. <a id="logo_link_topic">Logo Link</a>
 When the user clicks the logo, he is redirected to Home page
 # 2. <a id="roadMap">RoadMap</a>
