@@ -159,6 +159,9 @@ The [Footer](#footer) is a Card that appears in every page in the site, as the l
 It presents the site navigation links, a footer image and maybe also the Flowbiz logo.
 
 ![footer_mockup1](https://user-images.githubusercontent.com/12394551/165639313-e311feeb-2eb4-4eb6-ad41-a050ba03f511.png)
+##### Mobile View
+
+![footer_mockup2](https://user-images.githubusercontent.com/12394551/167114782-0337fd12-2a11-4ced-9903-b0b7dd93212b.png)
 ## 1.5. <a id="navigation">Navigation</a>
 The [Navigation](../LandingPageDesign/README.md#navigation_topic) control Panel let the user jump between the different pages of the site, sign in and out from the site and switch between Local and Light/Dark modes
 
