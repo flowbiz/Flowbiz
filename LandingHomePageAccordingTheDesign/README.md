@@ -39,7 +39,7 @@ https://xd.adobe.com/view/7f86feb6-b713-4bea-a733-dd73b40035c1-2ad5/
 ## 1.1. <a id="screen_mode">Screen Mode</a>
 The Flowbiz landing page should be adjusted for both Desktop and Mobile views<br>
 The Mobile view can be seen here:<br>
-https://xd.adobe.com/view/c55a60fd-612a-4226-b33e-4f770f0c510a-9009/screen/802d8e3d-acfc-4359-b925-8b15913f4fdd
+https://xd.adobe.com/view/e217e459-6e1e-4a7a-b93f-746e209c730e-b744/
 - For each page and functionality, the designer should present both modes: Desktop and Mobile
 ## 1.2. <a id="home_page_info_cards">Home Page Info Cards</a>
 There are 4 Info Cards in the home page.<br>
@@ -231,7 +231,10 @@ When the user scrolls down in the page, the 'Fl biz' word fades away and only th
 
 ![scrolling_down_mode_mockup1](https://user-images.githubusercontent.com/12394551/165717629-940a3cad-dce1-4f81-bd1c-051cbee33842.png)
 ### 1.6.3. <a id="mobile_view_topic">Mobile View</a>
-TBD
+On mobile, only the bulb should be shown.<br>
+On Scrolling Down, the bulb and the navigation menu should fly out the same way of the bulb in the Desktop mode.
+
+![mobile_view_mockup1](https://user-images.githubusercontent.com/12394551/167260704-8dddf0eb-d3c0-4fe9-8e91-acc87fdbcb86.png)
 ### 1.6.4. <a id="logo_link_topic">Logo Link</a>
 When the user clicks the logo, he is redirected to Home page
 # 2. <a id="roadMap">RoadMap</a>
@@ -244,7 +247,7 @@ Home Page Cards on Desktop mode comply with the XD design specification and acco
 - 10% of total payment
 ## 2.2. <a id="home_page_info_cards_mobile_mode_stage">Home Page Info Cards Mobile Mode</a>
 Home Page Cards on Mobile mode comply with the XD Mobile design specification and according to requirements
-- The work will be reviewed and issues must be fixed (same as in the first milestone and relevant to all other milestones
+- The work will be reviewed and issues must be fixed (same as in the first milestone and relevant to all other milestones)
 - 10% of payment
 ## 2.3. <a id="contact_card_desktop_mode_stage">Contact Card Desktop Mode</a>
 The Contact Card on Desktop mode comply with the XD design specification and according to requirements
