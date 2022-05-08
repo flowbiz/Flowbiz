@@ -167,7 +167,8 @@ The [Navigation](../LandingPageDesign/README.md#navigation_topic) control Panel 
 
 ![navigation_mockup1](https://user-images.githubusercontent.com/12394551/166155050-a48e36bd-ea47-405e-94d9-f6bbf8d7d3d1.png)
 
-- https://xd.adobe.com/view/4395c0a2-5fe3-475e-86e5-09fd02be07ab-16c6/screen/1f4e9e23-8964-46fa-b680-6d582f7a848e
+- https://xd.adobe.com/view/05c79868-78da-4937-b190-993dccac9bf0-5094/
+- https://xd.adobe.com/view/4395c0a2-5fe3-475e-86e5-09fd02be07ab-16c6/
 ### 1.5.1. <a id="sign_in/out_button_topic">Sign In/Out Button</a>
 A small button with a face image that let the user sign in and from the site
 
